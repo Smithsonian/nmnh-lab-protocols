@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1311025872.svg)](https://doi.org/10.5281/zenodo.22035534)
+
 # nmnh-lab-protocols
 
 Laboratory protocols from NMNH Laboratories of Analytical Biology (LAB)
